@@ -14,7 +14,7 @@ Color Catcher is a simple arcade-style reflex game developed using Pygame. In th
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/color-catcher-game.git
+   git clone https://github.com/AdixMaTenus/color-bucket.git
    ```
 2. Navigate to the project directory:
    ```
